@@ -1,6 +1,6 @@
 # DataProSurvey
 ## Data Professional Survey Breakdown 
-### PowerBI Dashboard  
+### PowerBI Interactive Dashboard 
 <img src="pd_img/FinalDash.png" width="600">
 Using a excel dataset about Data Professionals. Cleaning it then analysing data and creating a dashboard all in PowerBI.
 
@@ -29,4 +29,4 @@ The data is ready to use.
 <br><br>
 <img src="pd_img/dashUsa.png" width="600">
 <br>
-On the dashboard when a user clicks on United States on the treemap it shows data of the survey takers from the US. Out of the 630 survey takers 261 were from the US. The average age of US survey takers was 30.70 or 31. The stacked bar chart is the Average Salary By Job Title, stacked column chart is Favourite Programming Language, card x2 is Total Survey Takers & Average Survey Taker Age, Gauge x2 is (Happiness rate with  Work/Life Balance & Happiness rate with Salary) and Dount chart is Difficultly to break into Data.
+On the dashboard when a user clicks on United States on the treemap it shows various data e.g. number of the survey takers from the US. Out of the 630 survey takers 261 were from the US. The average age of US survey takers was 30.70 or 31. The stacked bar chart is the Average Salary By Job Title, stacked column chart is Favourite Programming Language, card x2 is Total Survey Takers & Average Survey Taker Age, Gauge x2 is (Happiness rate with  Work/Life Balance & Happiness rate with Salary) and Dount chart is Difficultly to break into Data.
