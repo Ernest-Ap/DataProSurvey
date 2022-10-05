@@ -2,7 +2,7 @@
 ## Data Professional Survey Breakdown 
 ### PowerBI Interactive Dashboard 
 <img src="pd_img/FinalDash.png" width="600">
-Using a excel dataset about Data Professionals. Cleaning it then analysing data and creating a dashboard all in PowerBI.
+Using a excel dataset about Data Professionals. Cleaning it then analysing the data and creating a dashboard all in PowerBI.
 
 Software used: 
 <li>Microsoft Excel: Dataset file imported into Power BI. 
