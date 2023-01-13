@@ -13,13 +13,13 @@ I removed columns that weren’t need.
 
 <img src="pd_img/splitCol.png" width="600">
 <br>
-Split column by delimiter choose custom we want to move the ( away from option because there is only on one in that column. So the left-most delimiter will be the option to use. 
+Split column by delimiter choose custom we want to move the '(' away from option because there is only one in that column. So the left-most delimiter will be the option to use. 
 What this does is it’s going to separate it by this parenthesis it’s going to leave (other) it’s going to create separate columns for each of these options. After I deleted the column that I didn’t need. I did the same for Favourite Programming Language question also removing the SQL options. 
 <br>
 <br>
 <img src="pd_img/averageSalary.png" width="600">
 <br>
-The currently yearly salary what I did with this was, I broke up these numbers 106-125 and then took the average of those numbers. Next duplicated the currently yearly salary column first and that was what I was using. Next took 106 125 created that into two separate columns; then I created a third column that collected the average of those two numbers. 
+The currently yearly salary what I did with this was, I broke up these numbers 106-125 and then took the average of those numbers. Next duplicated the currently yearly salary column first and that was what I was using. Next took 106 and 125 created that into two separate columns; then I created a third column that collected the average of those two numbers. 
 
 For which country do you live in question the column was split. Again a copy of this column that just got created then removed. Also did this for the what industry do you work in question. 
 
