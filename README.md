@@ -1,15 +1,28 @@
 # DataProSurvey
-## Data Professional Survey Breakdown 
+## Survey of Data Professionals  
 ### PowerBI Interactive Dashboard 
-<img src="pd_img/FinalDash.png" width="600">
-Using a excel dataset about Data Professionals. Cleaning it then analysing the data and creating a dashboard all in PowerBI.
+<img src="pd_img/1fdash.png" width="900"> 
 
-Software used: 
-<li>Microsoft Excel: Dataset file imported into Power BI. 
-<li>Microsoft PowerBI: To clean the data and build charts and then a dashboard. 
-<li>Charts are Treemap, stacked bar chart, stacked column chart, card x2, Gauge x2 and Dount chart.
+### Survey of Data Professionals Interactive dashboard where you can filter survey takers by country. The countries you can filter through are Canada, India, United States, United Kingdom or Other.
 
-I removed columns that weren’t need. 
+In this report I will analyse the data of the data professionals, to have an understanding of the professionals in this industry. Number of survey takers 630, average age of survey taker is 30. 
+
+I will mention: 
+Survey of takers by country.
+Favourite programming languages their like to use or have used.
+Happiness rate with work/life balance. 
+Average salary by job title. 
+Difficulty to break into Data.   
+
+Software used:  
+Microsoft PowerBI: To clean the data, analysing the data and build charts and then a dashboard. 
+
+Charts Used: Treemap, Table Chart, Card x2, Gauge, Bar Chart and Funnel Chart.
+
+<img src="pd_img/2sur.png" width="700"> 
+
+
+
 
 <img src="pd_img/splitCol.png" width="600">
 <br>
