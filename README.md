@@ -21,6 +21,7 @@ Charts Used: Treemap, Table Chart, Card x2, Gauge, Bar Chart and Funnel Chart.
 
 <img src="pd_img/2sur.png" width="700"> 
 
+<img src="pd_img/3fav.png" width="700"> 
 
 
 
