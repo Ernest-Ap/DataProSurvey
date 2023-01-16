@@ -11,6 +11,7 @@ I will mention:
 
 <li>Survey of takers by country.
 <li>Favourite programming languages their like to use or have used.
+<li>Number of survey takers and average age of survey taker.
 <li>Happiness rate with work/life balance. 
 <li>Average salary by job title. 
 <li>Difficulty to break into Data.   
@@ -40,6 +41,7 @@ Charts Used: Treemap, Table Chart, Card x2, Gauge, Bar Chart and Funnel Chart.
 
 ### In this report I analysed the survey results on:
 
+<li>Survey of takers by country.
 <li>Favourite programming languages their like to use or used.
 <li>Number of survey takers and average age of survey taker. 
 <li>Happiness rate with work/life balance. 
