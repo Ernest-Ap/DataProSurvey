@@ -8,11 +8,12 @@
 In this report I will analyse the data of the data professionals, to have an understanding of the professionals in this industry. Number of survey takers 630, average age of survey taker is 30. 
 
 I will mention: 
-Survey of takers by country.
-Favourite programming languages their like to use or have used.
-Happiness rate with work/life balance. 
-Average salary by job title. 
-Difficulty to break into Data.   
+
+<li>Survey of takers by country.
+<li>Favourite programming languages their like to use or have used.
+<li>Happiness rate with work/life balance. 
+<li>Average salary by job title. 
+<li>Difficulty to break into Data.   
 
 ### Software used:  
 Microsoft PowerBI: To clean the data, analysing the data and build charts and then a dashboard. 
