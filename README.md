@@ -7,7 +7,7 @@
 
 In this report I will analyse the data of the data professionals, to have an understanding of the professionals in this industry. Number of survey takers 630, average age of survey taker is 30. 
 
-I will mention: 
+### I will mention: 
 
 <li>Survey of takers by country.
 <li>Favourite programming languages their like to use or have used.
